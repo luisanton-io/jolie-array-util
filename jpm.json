@@ -1,0 +1,15 @@
+{
+   "name": "jolie-array-util",
+   "description": "",
+   "author": "",
+   "version": "1.0.0",
+   "license": "ISC",
+   "keywords": [],
+   "scripts": {
+      "jolive": "npx nodemon --exec jolie ./main.ol",
+      "clean": "rm ./hs_err_pid*"
+   },
+   "dependencies": {
+      "npm": {}
+   }
+}
